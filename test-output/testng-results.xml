@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-08T12:37:14 IST" name="Suite" finished-at="2022-06-08T12:38:03 IST" duration-ms="49077">
+    <groups>
+    </groups>
+    <test started-at="2022-06-08T12:37:14 IST" name="ChromeBrowser" finished-at="2022-06-08T12:38:03 IST" duration-ms="49077">
+      <class name="testClasses.VerifyUserCanAddFundsToAccount">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:testClasses.VerifyUserCanAddFundsToAccount@397fbdb]" started-at="2022-06-08T12:37:14 IST" name="beforeClass" finished-at="2022-06-08T12:37:46 IST" duration-ms="31680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testClasses.VerifyUserCanAddFundsToAccount@397fbdb]" started-at="2022-06-08T12:37:47 IST" name="beforeMethod" finished-at="2022-06-08T12:37:49 IST" duration-ms="1903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="ClickOnLogin()[pri:0, instance:testClasses.VerifyUserCanAddFundsToAccount@397fbdb]" started-at="2022-06-08T12:37:49 IST" name="ClickOnLogin" finished-at="2022-06-08T12:38:02 IST" duration-ms="13165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnLogin -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testClasses.VerifyUserCanAddFundsToAccount@397fbdb]" started-at="2022-06-08T12:38:02 IST" name="afterMethod" finished-at="2022-06-08T12:38:02 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:testClasses.VerifyUserCanAddFundsToAccount@397fbdb]" started-at="2022-06-08T12:38:03 IST" name="afterClass" finished-at="2022-06-08T12:38:03 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- testClasses.VerifyUserCanAddFundsToAccount -->
+    </test> <!-- ChromeBrowser -->
+  </suite> <!-- Suite -->
+</testng-results>
